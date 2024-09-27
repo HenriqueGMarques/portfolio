@@ -1,0 +1,63 @@
+{
+    "name": "Henrique Marques",
+    "photo": "https://raw.githubusercontent.com/Err0rGCeni/DIOProject_PortfolioGG/main/assets/img/my-photo.jpg",
+    "job": "Estudante de ADS, Front-end",
+    "location": "Sorocaba - SP",
+    "phone": "(15) 99171-3140",
+    "email": "henriquegoncale@gmail.com",
+    "skills": {
+        "hardSkills": [
+            {
+                "name": "JavaScript",
+                "logo": "https://raw.githubusercontent.com/Err0rGCeni/DIOProject_PortfolioGG/main/data/imgs/java.png"
+            },
+            {
+                "name": "Python",
+                "logo": "https://raw.githubusercontent.com/Err0rGCeni/DIOProject_PortfolioGG/main/data/imgs/python.png"
+            },
+            {
+                "name": "NodeJS",
+                "logo": "https://raw.githubusercontent.com/Err0rGCeni/DIOProject_PortfolioGG/main/data/imgs/nodejs.png"
+            },
+            {
+                "name": "Git",
+                "logo": "https://raw.githubusercontent.com/Err0rGCeni/DIOProject_PortfolioGG/main/data/imgs/git.png"
+            }
+        ],
+        "softSkills": [
+            "Colaboração",
+            "Criatividade",
+            "Curiosidade",
+            "Flexibilidade",
+            "Persistência"
+        ]
+    },
+    "languages": [
+        "Português (Fluente)",
+        "Inglês (intermediário)"
+    ],
+    "portfolio": [
+        {
+            "name": "Desenvolvendo um algoritmo para gerar respostas triviais a perguntas absurdas",
+            "url": "www.trivialqnaabsurd.com",
+            "github": true
+        },
+        {
+            "name": "Criando um sistema para sabotar a comunicação entre máquinas e pets",
+            "url": "www.notpetfriendlymachine.com",
+            "github": false
+        },
+        {
+            "name": "Aplicação para criar jogos de lógica e enigmas sem solução",
+            "url": "www.foreverloopingpuzzle.com",
+            "github": true
+        }
+    ],
+    "professionalExperience": [
+        {
+            "name": "Estudante",
+            "period": "2016 - 2021",
+            "description": "Participou de projetos de pesquisa e desenvolvimento de técnicas de desenvolvimento ágil, Html, CSS, JS, React, NodeJS"
+        }
+    ]
+}
